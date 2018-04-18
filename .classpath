@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_EM"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.hibernate.MYECLIPSE_HIBERNATE3_3_CORE"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/commons-dbcp-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/commons-pool-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/javax.jms.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/javax.jms.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/jms-core.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/jms-core.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/jpa.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/jpa.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/spring-jpa-2.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Hibernate  Jar Files/spring-jpa-2.0.3.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Jar_Files/Log4j/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
